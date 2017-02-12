@@ -43,12 +43,37 @@ and open the template in the editor.
     margin: 0 auto;
 }
 
-.pctwidth {
+.pctwidthpic {
     max-width: 50%;
 }
 
-.pctheight {
+.pctheightpic {
     max-height: 50%;
+}
+
+.pctwidthtext {
+    max-width: 80%;
+}
+
+.centertextalign {
+    text-align: left;
+    margin: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
+
+table {
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    text-align: center
 }
 
 @media screen and (max-width: 480px) {
