@@ -62,19 +62,13 @@ and open the template in the editor.
     
     .navigation li{
         display: block;
-        margin: 15px;
+        margin: 13px;
     }
 
     .navigation li a{
-        padding: 7.5px;
+        padding: 6.5px;
         color: black;
         font-family: Georgia;
         text-decoration: none;
-    }
-    
-    .navigation{
-        text-align: center;
-        border: none;
-        background-color: #f3f3f3;
     }
 }
