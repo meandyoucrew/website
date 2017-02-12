@@ -64,6 +64,7 @@ and open the template in the editor.
         text-align: center;
         border: 1px solid #f3f3f3;
         background-color: #f3f3f3;
+        padding-left: 10px;
     }
     
     .navigation li{
