@@ -50,3 +50,13 @@ and open the template in the editor.
 .pctheight {
     max-height: 50%;
 }
+
+@media screen and (max-width: 480px) {
+    .pctwidth {
+        max-width: 80%;
+    }
+
+    .pctheight {
+        max-height: 80%;
+    }
+}
