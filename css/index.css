@@ -60,13 +60,19 @@ and open the template in the editor.
         max-height: 80%;
     }
     
+    .navigation{
+        text-align: center;
+        border: 1px solid #f3f3f3;
+        background-color: #f3f3f3;
+    }
+    
     .navigation li{
         display: block;
-        margin: 13px;
+        margin: 15px;
     }
 
     .navigation li a{
-        padding: 6.5px;
+        padding: 7.5px;
         color: black;
         font-family: Georgia;
         text-decoration: none;
