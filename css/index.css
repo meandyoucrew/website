@@ -71,4 +71,10 @@ and open the template in the editor.
         font-family: Georgia;
         text-decoration: none;
     }
+    
+    .navigation{
+        text-align: center;
+        border: none;
+        background-color: #f3f3f3;
+    }
 }
